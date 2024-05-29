@@ -10,15 +10,15 @@ Sphinx is a static site generator (SSG), so you can deploy it through many servi
 
 Complete list of technologies used to create this page:
 -------------------------------------------------------
-`Sphinx <https://www.sphinx-doc.org/>`_
-`ReadTheDocs <https://about.readthedocs.com/>`_
-`ReStructuredText <https://docutils.sourceforge.io/rst.html>`_
-`Python 3 <https://www.python.org/>`_
-`pip <https://pypi.org/project/pip/>`_ (package installer for python)
-`venv <https://docs.python.org/3/library/venv.html>`_ (python virtual environment)
-`GitHub <https://github.com/minaelee/sphinx.git>`_
-Sphinx CLI
-git CLI
+* `Sphinx <https://www.sphinx-doc.org/>`_
+* `ReadTheDocs <https://about.readthedocs.com/>`_
+* `ReStructuredText <https://docutils.sourceforge.io/rst.html>`_
+* `Python 3 <https://www.python.org/>`_
+* `pip <https://pypi.org/project/pip/>`_ (package installer for python)
+* `venv <https://docs.python.org/3/library/venv.html>`_ (python virtual environment)
+* `GitHub <https://github.com/minaelee/sphinx.git>`_
+* Sphinx CLI
+* git CLI
 
 
 .. note::

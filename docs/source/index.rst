@@ -18,8 +18,10 @@ Complete list of technologies used to create this page:
 * `venv <https://docs.python.org/3/library/venv.html>`_ (python virtual environment)
 * `GitHub <https://github.com/minaelee/sphinx.git>`_
 * `The Sphinx Press theme <https://github.com/schettino72/sphinx_press_theme>`_
+* A code editor (VS Code)
 * Sphinx CLI
 * git CLI
+* bash
 
 
 .. note::

@@ -17,6 +17,7 @@ Complete list of technologies used to create this page:
 * `pip <https://pypi.org/project/pip/>`_ (package installer for python)
 * `venv <https://docs.python.org/3/library/venv.html>`_ (python virtual environment)
 * `GitHub <https://github.com/minaelee/sphinx.git>`_
+* `The Sphinx Press theme <https://github.com/schettino72/sphinx_press_theme>`_
 * Sphinx CLI
 * git CLI
 
